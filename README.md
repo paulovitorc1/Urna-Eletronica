@@ -3,7 +3,7 @@
 ### Sobre:
 Simulação de uma urna eletronica e todas suas funções desenvolvido com as linguagens JavaScript, HTML e CSS.
 
-##### Candidatos disponiveis e seus respectivos numeros:
+## Candidatos disponiveis e seus respectivos numeros:
 Para vereador:
 - Tiringa (38111)
 - Lopim Jose (77222)
