@@ -1,11 +1,11 @@
 <h1 align='center'>Projeto de Urna Eletronica</h1>
 
 ### Sobre:
-Simulação de uma urna eletronica e todas suas funções desenvolvido com as linguagens JavaScript, HTML e CSS.
+Simulação de uma urna eletronica e todas suas funções desenvolvida com as linguagens JavaScript, HTML e CSS.
 
 ---
 
-### Candidatos disponiveis e seus respectivos numeros:
+### Candidatos disponíveis e seus respectivos números:
 Para vereador:
 - Tiringa (38111)
 - Lopim Jose (77222)
